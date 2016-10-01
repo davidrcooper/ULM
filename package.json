@@ -1,0 +1,32 @@
+{
+  "name": "ulm_material_design",
+  "version": "0.0.1",
+  "description": "Material design version of ULM site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-react": "^6.5.0",
+    "babel-runtime": "^6.9.0",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cli": "^1.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "material-ui": "^0.15.0",
+    "notify-send": "^0.1.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-image-gallery": "^0.6.2",
+    "react-imageloader": "^2.1.0",
+    "react-loader": "^2.4.0",
+    "react-tap-event-plugin": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
